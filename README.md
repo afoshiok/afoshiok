@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 * 🌍  I'm based in Houston, TX
-* 🚀  I'm currently working on [Spotify ML Project (untitled currently)](http://https://github.com/afoshiok/Perfect-Spotify-Playlist)
+* 🚀  I'm currently working on [Sentify (Generating Playlists with Sentiment Analysis)](http://https://github.com/afoshiok/Perfect-Spotify-Playlist)
 * 🧠  I'm learning Vue + ML
 
 ### Skills

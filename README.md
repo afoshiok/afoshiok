@@ -4,4 +4,6 @@
 
 5/23/23 - Started the React Andy Arc (Decided to learn React)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afoshiok&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Language(s)/Frameworks/Libraries I've Been Using Lately:
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="60"> <img width="60" alt="Typescript logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> <img width="60" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png">

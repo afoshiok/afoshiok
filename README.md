@@ -4,6 +4,6 @@
 
 5/23/23 - Started the React Andy Arc (Decided to learn React)
 
-Language(s)/Frameworks/Libraries I've Been Using Lately:
+![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=cobalt&hide_border=true)
 
-<img width="60" alt="Typescript logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> <img width="60" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png">
+![afoshiok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afoshiok&theme=cobalt&show_icons=true&hide_border=true&layout=compact)

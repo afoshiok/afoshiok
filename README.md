@@ -1,8 +1,8 @@
-## May's Field Notes 📔
+## June's Field Notes 📔
 
-5/10/23 - Graduated with a B.S. in Computer Information Systems 👨🏾‍🎓
+6/5/23 - Added untitled NBA ML/Data Analysis project to Idea Farm*.
 
-5/23/23 - Started the React Andy Arc (Decided to learn React)
+**Idea Farm:* A Notion backlog of future project ideas I want to take on in the future.
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)
 

@@ -2,6 +2,8 @@
 
 6/5/23 - Added untitled NBA ML/Data Analysis project to Idea Farm*.
 
+6/6/23 - [Sentify](https://github.com/afoshiok/Sentify) is finally ready for production, just need a quota approval from Spotify.
+
 **Idea Farm:* A Notion backlog of future project ideas I want to take on in the future.
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

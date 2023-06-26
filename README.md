@@ -4,6 +4,8 @@
 
 6/6/23 - [Sentify](https://github.com/afoshiok/Sentify) is finally ready for production, just need a quota approval from Spotify.
 
+6/26/23 - Ran into an issue (EOF Error) when running the Sentify API in production. The deployment will probably not happen for now. But feel free to run it locally. :(  
+
 **Idea Farm:* A Notion backlog of future project ideas I want to take on in the future.
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

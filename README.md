@@ -6,6 +6,8 @@
 
 6/26/23 - Ran into an issue (EOF Error) when running the Sentify API in production. The deployment will probably not happen for now. But feel free to run it locally. :(  
 
+6/26/23 - Decided to turn the Letterboxd project into a web app instead of a Discord bot.
+
 **Idea Farm:* A Notion backlog of future project ideas I want to take on in the future.
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

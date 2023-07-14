@@ -1,14 +1,10 @@
-## June's Field Notes 📔
+## July's Field Notes 📔
 
-6/5/23 - Added untitled NBA ML/Data Analysis project to Idea Farm*.
+7/1/23 - Started working on my portfolio page here and there (in a private repo, for now).
 
-6/6/23 - [Sentify](https://github.com/afoshiok/Sentify) is finally ready for production, just need a quota approval from Spotify.
+7/13/23 - Passed Databricks Lakehouse Fundamentals.
 
-6/26/23 - Ran into an issue (EOF Error) when running the Sentify API in production. The deployment will probably not happen for now. But feel free to run it locally. :(  
-
-6/26/23 - Decided to turn the Letterboxd project into a web app instead of a Discord bot.
-
-**Idea Farm:* A Notion backlog of future project ideas I want to take on in the future.
+7/14/23 - Scheduled my Databricks Data Engineer Associate Cert Exam for August 31st. 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)
 

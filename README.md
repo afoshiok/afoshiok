@@ -1,10 +1,7 @@
-## July's Field Notes 📔
+## August's Field Notes 📔
 
-7/1/23 - Started working on my portfolio page here and there (in a private repo, for now).
+8/1/2023 - 8/6/2023 - Been in a coding drought, spending most of my time preparing for Databricks DE Associate Exam (8/31/2023 @ 3pm).
 
-7/13/23 - Passed Databricks Lakehouse Fundamentals.
-
-7/14/23 - Scheduled my Databricks Data Engineer Associate Cert Exam for August 31st. 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)
 

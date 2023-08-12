@@ -1,6 +1,6 @@
 ## August's Field Notes 📔
 
-7/8/2023 - 8/6/2023 - Been in a coding drought, spending most of my time preparing for Databricks DE Associate Exam (8/31/2023 @ 3pm).
+7/8/2023 - 8/6/2023 - Been in a coding drought, spending most of my time preparing for Databricks DE Associate Exam (9/5/2023 @ 3pm).
 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

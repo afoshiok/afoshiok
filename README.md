@@ -1,4 +1,4 @@
-## September's Field Notes 📔
+## October's Field Notes 📔
 
 Noting for now 👋
 

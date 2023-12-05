@@ -1,4 +1,4 @@
-## November's Field Notes 📔
+## Favour's Field Notes 📔
 
 Noting for now 👋
 

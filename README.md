@@ -1,6 +1,6 @@
 ## Favour's Field Notes 📔
 
-Nothing for now, expect more projects (unless I get hired 👀) in 2024. 👋
+Currently: Building an Election Finance data pipeline 👋
 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

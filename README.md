@@ -1,6 +1,6 @@
 ## Favour's Field Notes 📔
 
-Currently: Building an Election Finance data pipeline 👋
+👋
 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)

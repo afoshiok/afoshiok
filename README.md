@@ -1,6 +1,6 @@
 ## Favour's Field Notes 📔
 
-Currently: Playing around w/ LangChain and DuckDB
+**Currently: Playing around w/ LangChain and DuckDB 🦆**
 
 
 ![afoshiok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afoshiok&theme=vue-dark&hide_border=true)
